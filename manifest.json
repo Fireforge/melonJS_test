@@ -1,0 +1,10 @@
+{
+  "name": "MelonJS Whack-A-Mole",
+  "description": "MelonJS Whack-A-Mole",
+  "version": "1.0",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
+}
